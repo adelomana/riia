@@ -29,4 +29,8 @@ logging.basicConfig(format=working_format)
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
-logging.info('riia version 0.0.0')
+logging.info('riia version 1')
+
+
+# inference
+# read database first and by default, exclude level E, include all others. this should be an option later.
