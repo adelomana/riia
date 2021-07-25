@@ -9,3 +9,5 @@ bsc/unconstrained/.ipynb_checkpoints/geometric-checkpoint.ipynb
 src/__pycache__/riia.cpython-38.pyc
 bsc/constrained/.ipynb_checkpoints/boundaries_change_test_KO-checkpoint.ipynb
 bsc/expression_formatter/.ipynb_checkpoints/expression formatter-checkpoint.ipynb
+bsc/constrained/.ipynb_checkpoints/expression_constrained_runner-checkpoint.ipynb
+bsc/expression_formatter/.ipynb_checkpoints/expression_based_flux_changes_definer-checkpoint.ipynb
